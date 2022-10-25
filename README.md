@@ -1,9 +1,9 @@
-## FUTURIST AND the Product Guy !!!
+## FUTURIST AND YOUR PRODUCT GUY !!!
 ![CHEESE!](blog1.jpg)
 __________________________________________________________________________________________________________________________
 
 ### Hi there 👋, i'm Napoleon MANUEL
-#### A Software Architecture  
+#### A Software Architecture AND believe the Future is about low-cost Warp drive.
 
 👀 I’m interested in anything Web based and product development.
 
