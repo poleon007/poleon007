@@ -22,7 +22,7 @@ Skills: REACT || VUE JS || REACT ||  JS ||  HTML || CSS || PHP || JQUERY || AJAX
 - 👯 I’m looking to collaborate on Edtech and Fintech Products 
 - 🤔 I’m looking for help with C++ || JAVA || PYTHON  
 - 💬 Ask me about Web Development AND Anything Trading (Blockchain)
-- 📫 How to reach me: napoleonmanuel.me@gmail.com 
+- 📫 How to reach me: +233 20 794 8954
 - 😄 Pronouns: Let push the human race forward 
 - ⚡ Fun fact: Swimming  
 
