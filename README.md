@@ -1,4 +1,4 @@
-## FUTURIST 
+## FUTURIST AND the Product Guy !!!
 ![CHEESE!](blog1.jpg)
 __________________________________________________________________________________________________________________________
 
@@ -15,10 +15,10 @@ ________________________________________________________________________________
 
 👨🏻‍💻 Portfolio : https://napoleonmanuel.com/
 
-Skills: VUE JS || REACT ||  JS ||  HTML || CSS || PHP || JQUERY || AJAX AND STILL GOING...
+Skills: REACT || VUE JS || REACT ||  JS ||  HTML || CSS || PHP || JQUERY || AJAX AND STILL GOING...
 
 - 🔭 I’m currently working on a new startup 
-- 🌱 I’m currently learning I.C.T (UEW Edu) 
+- 🌱 I’m currently learning I.C.T (University of Education,Winneba) 
 - 👯 I’m looking to collaborate on Edtech and Fintech Products 
 - 🤔 I’m looking for help with C++ || JAVA || PYTHON  
 - 💬 Ask me about Web Development AND Anything Trading (Blockchain)
