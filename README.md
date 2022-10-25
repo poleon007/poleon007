@@ -1,7 +1,7 @@
 FUTURIST 
 __________________________________________________________________________________________________________________________
 
-- 👋 Hi, I’m @poleon007
+- 👋 Hi, there ,i'm Napoleon MANUEL
 - 
 - 👀 I’m interested in anything Web based and product development.
 - 
@@ -12,6 +12,8 @@ ________________________________________________________________________________
 - 📫 How to reach me  napoleonmanuel.me@gmail.com .
 - 
 - 👨🏻‍💻 Portfolio : https://napoleonmanuel.com/
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poleon007&show_icons=true&theme=radical)
 
 <!---
 poleon007/poleon007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
